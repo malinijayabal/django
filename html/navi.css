@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+body{
+	background-image: url(C:/Users/Acer/Downloads/t2.jpg);
+	background-size: cover;
+	box-sizing: border-box;
+	font-family: sans-serif;
+
+}
+.book{
+	background: rgb(1, 100, 0);
+	text-align: center;
+	font-weight: bold;
+
+}
+.book ul{
+	display:block;
+	list-style: none;
+	color: #fff;
+}
+.book ul li{
+	width: 120px;
+	margin: 15px;
+	padding: 15px;
+
+}
+.book ul li a
+{
+	text-decoration: none;
+	color: #fff;
+
+}
+.active, .book ul li:hover
+{
+	background: #2bab0d;
+	border-radius: 3px;
+}
+

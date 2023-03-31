@@ -1,0 +1,30 @@
+*{
+	padding: 12px;
+	margin: 0;
+	box-sizing: border-box;
+
+}
+.A{
+	
+}
+.a{
+	
+	float: left;
+	font-family: "Lucida Console", "Courier New", monospace;
+	text-align: center;
+}
+.a:hover{
+	color: #707070;
+}
+.b{
+	
+	float: left;
+}
+.c{
+	
+	float: left;
+}
+.btn{
+	float: right;
+	background-color: orange;
+}
